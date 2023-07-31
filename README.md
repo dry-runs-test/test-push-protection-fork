@@ -1,1 +1,3 @@
 # test-push-protection
+
+not blocked: CLOJARS_55caac69f43c796b63a772a1291965625d786538f22df961766827577027
